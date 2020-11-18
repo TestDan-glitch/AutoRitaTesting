@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTests", "AutoTests\AutoTests.csproj", "{9DEC7790-E772-4193-A140-67FEADF423E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RitaTests", "RitaTests\RitaTests.csproj", "{CA48E6C9-173B-4309-949A-77D1506ADB8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DEC7790-E772-4193-A140-67FEADF423E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEC7790-E772-4193-A140-67FEADF423E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEC7790-E772-4193-A140-67FEADF423E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEC7790-E772-4193-A140-67FEADF423E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA48E6C9-173B-4309-949A-77D1506ADB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA48E6C9-173B-4309-949A-77D1506ADB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA48E6C9-173B-4309-949A-77D1506ADB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA48E6C9-173B-4309-949A-77D1506ADB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80897611-B4FB-4B21-97CB-886D902A8BAD}
+	EndGlobalSection
+EndGlobal
